@@ -1,0 +1,8 @@
+# network
+EPOCH = "2019,7,2,23,34,49"
+VERSION = 25
+WIF = 170
+API_PORT = 9031
+DATABASE = "bpl_testnet"
+DATABASE_USER = "null"
+DATABASE_PASSWORD = "password"
